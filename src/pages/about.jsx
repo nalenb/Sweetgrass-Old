@@ -23,8 +23,8 @@ export default function About() {
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-                This site contains information for homeowner's of the Sweetgrass
-                Wyoming neighborhood.
+                This site contains information for homeowner&spos;s of the
+                Sweetgrass Wyoming neighborhood.
               </p>
             </div>
           </div>
